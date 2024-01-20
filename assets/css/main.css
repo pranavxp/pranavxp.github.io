@@ -103,12 +103,12 @@ input, select, textarea {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: rgb(0, 0, 0);
+		color: rgb(35, 35, 35);
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: rgb(5, 5, 5);
+		color: rgb(35, 35, 35);
 		line-height: 1.5em;
 	}
 
@@ -118,7 +118,7 @@ input, select, textarea {
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: rgb(255, 255, 255);
+			color: rgb(210, 210, 210);
 		}
 
 	h2 {
@@ -127,11 +127,11 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: rgb(255, 255, 255);
+			color: rgb(210, 210, 210);
 		}
 
 			h2.alt strong {
-				color: rgb(255, 255, 255);
+				color: rgb(210, 210, 210);
 			}
 
 	h3 {
@@ -152,7 +152,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 300;
-		color: rgb(150, 150, 150);
+		color: rgb(20, 20, 20);
 	}
 
 	em, i {
